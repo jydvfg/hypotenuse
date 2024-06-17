@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hypothenuse-calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c053b3573359d720be8a571785ad4226f633d90")]
 [assembly: System.Reflection.AssemblyProductAttribute("hypothenuse-calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hypothenuse-calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
